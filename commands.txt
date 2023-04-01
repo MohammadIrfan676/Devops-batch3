@@ -1,0 +1,13 @@
+git status
+git add
+git commit -m "added new file"
+git log
+git restore
+git diff
+git commit -m "added some changes"git status
+git add
+git commit -m "added new file"
+git log
+git restore
+git diff
+git commit -m "added some changes"
