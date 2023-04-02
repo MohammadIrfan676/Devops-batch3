@@ -1,0 +1,7 @@
+git init
+git status
+git add
+git commit -m "added new file"
+git log
+git restore
+git diff
